@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="style_hw3.css"?>
+
+<set-list>
+	<song1>
+		<title>THATS WHAT I WANT</title> <l></l>
+		<artist>Lil Nas X</artist> <l></l>
+		<genre>Hip-Hop/Rap</genre> <l></l>
+		<year>2021</year> <l></l>
+	</song1>
+	<song2>
+		<title>Everytime We Touch</title> <l></l>
+		<artist>Cascada</artist> <l></l>
+		<genre>Dance</genre> <l></l>
+		<year>2006</year> <l></l>
+	</song2>
+	<song3>
+		<title>Cruise</title> <l></l>
+		<artist>Florida Georgia Line</artist> <l></l>
+		<genre>Country</genre> <l></l>
+		<year>2012</year> <l></l>
+	</song3>
+	<song4>
+		<title>Came Here For Love</title> <l></l>
+		<artist>Sigala &amp; Ella Eyre</artist> <l></l>
+		<genre>Dance</genre> <l></l>
+		<year>2017</year> <l></l>
+	</song4>
+	<song5>
+		<title>TJ</title> <l></l>
+		<artist>Orange Guava Passion</artist> <l></l>
+		<genre>2019</genre> <l></l>
+		<year>Pop</year> <l></l>
+	</song5>
+	<song6>
+		<title>You Go Down Smooth</title> <l></l>
+		<artist>Lake Street Dive</artist> <l></l>
+		<genre>Pop</genre> <l></l>
+		<year>2011</year> <l></l>
+	</song6>
+	<song7>
+		<title>Take Me Home, Country Roads</title> <l></l>
+		<artist>John Denver</artist> <l></l>
+		<genre>Country</genre> <l></l>
+		<year>1971</year> <l></l>
+	</song7>
+	<song8>
+		<title>How Sweet It Is (To Be Loved By You)</title> <l></l>
+		<artist>James Taylor</artist> <l></l>
+		<genre>Folk</genre> <l></l>
+		<year>1975</year> <l></l>
+	</song8>
+	<song9>
+		<title>Sir Duke</title> <l></l>
+		<artist>Stevie Wonder</artist> <l></l>
+		<genre>R&amp;B/Soul</genre> <l></l>
+		<year>1976</year> <l></l>
+	</song9>
+	<song10>
+		<title>Bohemian Rhapsody</title> <l></l>
+		<artist>Queen</artist> <l></l>
+		<genre>Rock</genre> <l></l>
+		<year>1975</year> <l></l>
+	</song10>
+</set-list>
