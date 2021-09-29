@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type=“text/css” href=“style_hw3.css”?>
+
+<set-list>
+	<song1>
+		<title>THATS WHAT I WANT</title>
+		<artist>Lil Nas X</artist>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2021</year>
+	</song1>
+	<song2>
+		<title>Everytime We Touch</title>
+		<artist>Cascada</artist>
+		<genre>Dance</genre>
+		<year>2006</year>
+	</song2>
+	<song3>
+		<title>Cruise</title>
+		<artist>Florida Georgia Line</artist>
+		<genre>Country</genre>
+		<year>2012</year>
+	</song3>
+	<song4>
+		<title>Came Here For Love</title>
+		<artist>Sigala&amp;Ella Eyre</artist>
+		<genre>Dance</genre>
+		<year>2017</year>
+	</song4>
+	<song5>
+		<title>TJ</title>
+		<artist>Orange Guava Passion</artist>
+		<genre>2019</genre>
+		<year>Pop</year>
+	</song5>
+	<song6>
+		<title>You Go Down Smooth</title>
+		<artist>Lake Street Dive</artist>
+		<genre>Pop</genre>
+		<year>2011</year>
+	</song6>
+	<song7>
+		<title>Take Me Home, Country Roads</title>
+		<artist>John Denver</artist>
+		<genre>Country</genre>
+		<year>1971</year>
+	</song7>
+	<song8>
+		<title>How Sweet It Is (To Be Loved By You)</title>
+		<artist>James Taylor</artist>
+		<genre>Folk</genre>
+		<year>1975</year>
+	</song8>
+	<song9>
+		<title>Sir Duke</title>
+		<artist>Stevie Wonder</artist>
+		<genre>R&amp;B/Soul</genre>
+		<year>1976</year>
+	</song9>
+	<song10>
+		<title>Bohemian Rhapsody</title>
+		<artist>Queen</artist>
+		<genre>Rock</genre>
+		<year>1975</year>
+	</song10>
+</set-list>
