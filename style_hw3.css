@@ -18,6 +18,20 @@ l:before {
     content: "";
 }
 
+artist:before {
+	content: "by "
+}
+
+genre:before {
+	font-style: italic;
+	content: "GENRE: "
+}
+
+year:before {
+	font-style: italic;
+	content: "YEAR: "
+}
+
 title {
 	font-size: 30px;
 	font-weight: bold;
